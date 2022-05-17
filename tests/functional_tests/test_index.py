@@ -4,7 +4,7 @@ import os
 
 from selenium.webdriver.common.by import By
 
-chrome_driver = "C:/Users/IIoT_Lab/PycharmProjects/flaskProject/tests/functional_tests/yandexdriver.exe" if "ChromeWebDriver" not in os.environ.keys() else os.path.join(
+chrome_driver = "C:/Users/Ilya/Downloads/chromedriver_win32/chromedriver.exe" if "ChromeWebDriver" not in os.environ.keys() else os.path.join(
     os.environ["ChromeWebDriver"], 'chromedriver.exe')
 
 
