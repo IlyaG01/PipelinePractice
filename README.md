@@ -1,8 +1,7 @@
 # PipelinePractice
 Пример [статус бейджа](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser) с пайплайна:
 
-[![Build Status](https://dev.azure.com/alekseevap/calculatorWebApi/_apis/build/status/antonaleks.calculatorWebApi?branchName=master)](https://dev.azure.com/alekseevap/calculatorWebApi/_apis/build/status/antonaleks.calculatorWebApi?branchName=master)
-
+[![Build Status](https://dev.azure.com/alekseevap/golovakov/_apis/build/status/IlyaG01.PipelinePractice?branchName=master)](https://dev.azure.com/alekseevap/golovakov/_build/latest?definitionId=16&branchName=master)
 # Структура проекта
 ├── **guide**- *модуль с мануалом по заданию.*\
 ├── **entity**- *модуль сущностей.*\
